@@ -1,6 +1,19 @@
-# Magic-Music-Webapp
-It's a ads free music webapp. Add the api key of YouTube.
+## 🚀 Magic Music
+*It is a Music webapp*
 
-*To visit*
+__
 
-[MagicMusic](https://music-magic-api.lovable.app)
+## Description 
+Its free of cost use and you can add youtube api key yourself and access the all music from youtube. 
+
+__
+
+## Features
+⟩ Ads Free
+⟩ Non Premium 
+⟩ Non Profit 
+⟩ Use Youtube Api key for Music Library 
+
+__
+
+## Made by RenzoAi-Tech ♥️♥️
