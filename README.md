@@ -1,19 +1,20 @@
 ## 🚀 Magic Music
-*It is a Music webapp*
 
-__
+___
 
 ## Description 
-Its free of cost use and you can add youtube api key yourself and access the all music from youtube. 
 
-__
+*Its free of cost use and you can add youtube api key yourself and access the all music from youtube*
+
+___
 
 ## Features
+
 ⟩ Ads Free
 ⟩ Non Premium 
 ⟩ Non Profit 
 ⟩ Use Youtube Api key for Music Library 
 
-__
+___
 
 ## Made by RenzoAi-Tech ♥️♥️
